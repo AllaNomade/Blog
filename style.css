@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.top {
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding:15px 0px;
+}
+
+.navigation {
+    padding:15px 0px;
+    background-color: bisque;
+    margin-bottom: 15px;;
+}
+
+.menu {
+
+ padding: 0px;
+ display: flex;
+ list-style: none;
+
+}
+
+.menuItem {
+   flex: 1;
+}
